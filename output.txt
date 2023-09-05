@@ -1,0 +1,121 @@
+GHIMAT KOL: 57000
+adress  :    mehrabad
+name  :    soroosh
+phonenumber  :    93351
+Total price: 72000
+Address: mehrabad
+Name: soroosh
+Phone number: 09335165969
+Most purchased item: 1 mast
+Total price: 67000
+Address: 11
+Name: a'
+Phone number: 454
+Most purchased item: 10 bastani
+GHIMAT KOL: 67000
+adress  :    mehrabad
+name  :    soroosh
+phonenumber  :    0
+ mahboub tarin kala khridari shode  10 bastani
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+4 chips - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 5000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+_______________________________________________________________________________________________________________
+code sefaresh 87
+________________________________________________________________________________________________________________
+Total price: 86000
+Address: mehrabad
+Name: soroosh
+Phone number: 09335165969
+Most purchased item: 1 mast
+Total price: 68000
+Address: mehrabad
+Name: soroosh
+Phone number: 09335165969
+Most purchased item: 5 pofak
+GHIMAT KOL: 68000
+adress  :    mehrabad
+name  :    soroosh
+phonenumber  :    9335165969
+ mahboub tarin kala khridari shode  5 pofak
+1 mast - TARIKH ENGEZA: 2023-09-17 - GHIMAT: 20000
+2 dogh - TARIKH ENGEZA: 2023-09-17 - GHIMAT: 25000
+3 kareh - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 10000
+4 chips - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 5000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+_______________________________________________________________________________________________________________
+code sefaresh 452
+________________________________________________________________________________________________________________
+Total price: 97000
+Address: haftchenar
+Name: reyhane
+Phone number: 0919
+Most purchased item: 10 bastani
+GHIMAT KOL: 97000
+adress  :    haftchenar
+name  :    reyhane
+phonenumber  :    0919
+ mahboub tarin kala khridari shode  10 bastani
+1 mast - TARIKH ENGEZA: 2023-09-17 - GHIMAT: 20000
+4 chips - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 5000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+_______________________________________________________________________________________________________________
+code sefaresh 961
+________________________________________________________________________________________________________________
+Total price: 118000
+Address: azadi
+Name: soroosh
+Phone number: 09335165969
+Most purchased item: 8 biscouit
+GHIMAT KOL: 118000
+adress  :    azadi
+name  :    soroosh
+phonenumber  :    09335165969
+ mahboub tarin kala khridari shode  8 biscouit
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+10 bastani - TARIKH ENGEZA: 2023-09-20 - GHIMAT: 15000
+4 chips - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 5000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+7 chipof - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 9000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+8 biscouit - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 10000
+_______________________________________________________________________________________________________________
+code sefaresh 513
+________________________________________________________________________________________________________________
+Total price: 79000
+Address: tehran
+Name: reyhane
+Phone number: 09335165969
+Most purchased item: 1 mast
+GHIMAT KOL: 79000
+adress  :    tehran
+name  :    reyhane
+phonenumber  :    09335165969
+ mahboub tarin kala khridari shode  1 mast
+1 mast - TARIKH ENGEZA: 2023-09-17 - GHIMAT: 20000
+0 shir - TARIKH ENGEZA: 2023-09-17 - GHIMAT: 15000
+3 kareh - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 10000
+3 kareh - TARIKH ENGEZA: 2023-09-18 - GHIMAT: 10000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+1 mast - TARIKH ENGEZA: 2023-09-17 - GHIMAT: 20000
+5 pofak - TARIKH ENGEZA: 2023-09-19 - GHIMAT: 2000
+_______________________________________________________________________________________________________________
+code sefaresh 837
+________________________________________________________________________________________________________________
